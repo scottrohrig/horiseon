@@ -4,7 +4,7 @@
 
 ## View the Completed Code
 
-| -  [index.html](./end/Develop/index.html) - | - [style.css](.end/Develop/assets/css/style.css) - | [deployed application](scottrohrig.github.io/week-01-challenge)
+| -  [index.html](./end/Develop/index.html) - | - [style.css](.end/Develop/assets/css/style.css) - | [deployed application](https://scottrohrig.github.io/week-01-challenge/)
 
 ---
 
