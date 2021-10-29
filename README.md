@@ -4,7 +4,7 @@
 
 ## View the Completed Code
 
-| -  [index.html](./end/Develop/index.html) - | - [style.css](.end/Develop/assets/css/style.css) - | [deployed application](https://scottrohrig.github.io/week-01-challenge/)
+| [index.html](./end/Develop/index.html) | [style.css](.end/Develop/assets/css/style.css) | [deployed application](https://scottrohrig.github.io/week-01-challenge/) |
 
 ---
 
@@ -38,8 +38,45 @@ THEN I find a concise, descriptive title
 
 ### How the End Result Should Appear
 
-![img](./01-html-css-git-homework-demo.png)
+<p align="center">
+  <img src="./01-html-css-git-homework-demo.png" />
+</p>
+<!-- ![img](./01-html-css-git-homework-demo.png) -->
+
+---
+
+<h2 id="grading-requirements">Grading Requirements</h2>
+<p>This challenge is graded based on the following criteria: </p>
+<h3 id="technical-acceptance-criteria-40">Technical Acceptance Criteria: 40%</h3>
+
+- Satisfies all of the preceding acceptance criteria plus the following code improvements:
+    - ✔ Application's links all function correctly.
+    - ✔ Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+    - ✔ Application's CSS file is properly commented.
+      - [CSS Organizing & Formatting Guidelines](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+
+<h3 id="deployment-32">Deployment: 32%</h3>
+
+- 🙋‍♂️ Application deployed ❓ at live URL.
+  - Does this mean the site should be actively hosted? 
+- ✔ Application loads with no errors.
+- ✔ Application GitHub URL submitted.
+- ✔ GitHub repository that contains application code.
+
+<h3 id="application-quality-15">Application Quality: 15%</h3>
+
+- ✔ Application resembles (at least 90%) screenshots provided in challenge instructions.
+
+<h3 id="repository-quality-13">Repository Quality: 13%</h3>
+
+- Repository has a unique name.
+- Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Repository contains multiple descriptive commit messages.
+- Repository contains quality README file with description, screenshot, and link to deployed application.
 
 
-## Grading Requirements
+You are required to submit BOTH of the following for review:
 
+- The URL of the deployed application.
+- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
