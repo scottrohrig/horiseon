@@ -4,7 +4,7 @@
 
 ## View the Completed Code
 
-| [index.html](./index.html) | [style.css](./assets/css/style.css) | [deployed application](https://scottrohrig.github.io/week-01-challenge/) |
+| [index.html](./index.html) | [style.css](./assets/css/style.css) | [deployed application](https://scottrohrig.github.io/wk01-accessibility-refactor/) |
 
 ---
 
