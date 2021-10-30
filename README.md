@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 ### How the End Result Should Appear
 
 <p align="center">
-  <img src="./01-html-css-git-homework-demo.png" />
+  <img src="./assets/images/01-html-css-git-homework-demo.png" />
 </p>
 <!-- ![img](./01-html-css-git-homework-demo.png) -->
 
