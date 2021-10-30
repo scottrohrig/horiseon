@@ -1,4 +1,4 @@
-# Code Refactor Week One
+# Code Refactor Week One 
 
 ---
 
@@ -8,9 +8,15 @@
 
 ---
 
+
+
 ## Challenge Task
 
 The goal of this challenge was to refactor an existing site of a hypothetical marketing agency to improve its accessibility and serach engine optimization. Below is the __User Story__ and __Acceptance Criteria__.
+
+---
+
+## Below is the Assignment Prompt
 
 ### User Story
 
@@ -50,22 +56,20 @@ THEN I find a concise, descriptive title
 <h3 id="technical-acceptance-criteria-40">Technical Acceptance Criteria: 40%</h3>
 
 - Satisfies all of the preceding acceptance criteria plus the following code improvements:
-    - ✔ Application's links all function correctly.
-    - ✔ Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-    - ✔ Application's CSS file is properly commented.
-      - [CSS Organizing & Formatting Guidelines](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+    - Application's links all function correctly.
+    - Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+    - Application's CSS file is properly commented.
 
 <h3 id="deployment-32">Deployment: 32%</h3>
 
-- 🙋‍♂️ Application deployed ❓ at live URL.
-  - Does this mean the site should be actively hosted? 
-- ✔ Application loads with no errors.
-- ✔ Application GitHub URL submitted.
-- ✔ GitHub repository that contains application code.
+- Application deployed at live URL.
+- Application loads with no errors.
+- Application GitHub URL submitted.
+- GitHub repository that contains application code.
 
 <h3 id="application-quality-15">Application Quality: 15%</h3>
 
-- ✔ Application resembles (at least 90%) screenshots provided in challenge instructions.
+- Application resembles (at least 90%) screenshots provided in challenge instructions.
 
 <h3 id="repository-quality-13">Repository Quality: 13%</h3>
 
@@ -74,9 +78,3 @@ THEN I find a concise, descriptive title
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 - Repository contains multiple descriptive commit messages.
 - Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-You are required to submit BOTH of the following for review:
-
-- The URL of the deployed application.
-- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
