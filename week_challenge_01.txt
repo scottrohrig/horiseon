@@ -1,3 +1,0 @@
-DELIVERABLE
-    - Create a webpage using HTML, style it with CSS, & track it with Git
-

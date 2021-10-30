@@ -1,12 +1,25 @@
+:root{
+    /* CSS HEX */
+    /* THEME COLORS */
+    --text-color: #ffffff;
+    --title-color: #d9dcd6;
+    --header-color: #2a607c;
+    --container-color: #2589bd;
+    --container-color-secondary: #0072bb;
+    --body-color: #f6fbfe;
+}
+
+/* Universal Declarations */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body {
-    background-color: #d9dcd6;
-    color: #ffffff;
+    background-color: var(--body-color);
+    color: var(--text-color);
 }
 
 
@@ -14,7 +27,7 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: var(--header-color);    
 }
 
 header h1 {
@@ -23,14 +36,13 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: var(--title-color);
 }
 
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -44,8 +56,9 @@ header nav ul li {
 }
 
 a {
-    color: #ffffff;
+    color: var(--text-color);
     text-decoration: none;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
 }
 
 p {
@@ -85,8 +98,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: var(--container-color-secondary);
 }
 
 .content article img {
@@ -107,8 +119,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: var(--container-color);
 }
 
 .benefits div {
