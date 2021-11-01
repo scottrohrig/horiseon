@@ -27,7 +27,8 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: var(--header-color);    
+    background-color: var(--header-color);  
+    background: linear-gradient(to right bottom, var(--header-color), var(--container-color-secondary));
 }
 
 header h1 {
@@ -98,7 +99,9 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: var(--container-color-secondary);
+    /* background-color: var(--container-color-secondary); */
+    background: linear-gradient(to bottom, var(--header-color), var(--container-color-secondary));
+    border-radius: .5rem;
 }
 
 .content article img {
@@ -119,7 +122,10 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    background-color: var(--container-color);
+    /* background-color: var(--container-color); */
+    background: linear-gradient(to right, var(--container-color), var(--container-color-secondary));
+    border-radius: .5rem;
+    
 }
 
 .benefits div {
